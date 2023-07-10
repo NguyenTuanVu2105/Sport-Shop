@@ -1,4 +1,4 @@
-export const url = "http://localhost:5000/api";
+export const url = "https://sportshop-acab668bf3c8.herokuapp.com/api";
 
 export const setHeaders = () => {
     const headers = {
